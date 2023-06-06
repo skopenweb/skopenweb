@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skopenweb
 - 👀 I’m interested in making softwares.
-- 🌱 I’m currently learning about web/mobile development. 
+- 🌱 I’m currently praticing problem-solving. 
 - 💞️ I’m looking to collaborate on anything interesting on opensource.
 - 📫 How to reach me, feel free to ping on shubham.openweb@gmail.com
 
